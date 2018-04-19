@@ -25,6 +25,7 @@
         <init-param>
             <param-name>actionPackages</param-name>
             <param-value>com.lq</param-value>
+
         </init-param>
     </filter>
     <filter>
